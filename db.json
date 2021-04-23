@@ -2,7 +2,7 @@
 "disciplinas": [
 { "id": 1, "produto": "molho de tomate", "preço": "R$:8,00" },
 { "id": 2, "produto": "macarrão parafuso", "preço": "R$:9,00" },
-{ "id": 3, "titulo": "Banco de Dados", "codigo": "BCD" },
-{ "id": 4, "titulo": "INterfaces para Dispositivos Móveis", "codigo": "INDMO" }
+{ "id": 3, "produto": "carne moida 2Kg", "preço": "R$:25,00" },
+{ "id": 4, "produtos": "sal e temperos", "preço": "R$:5,00" }
 ]
 }
